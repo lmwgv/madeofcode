@@ -54,7 +54,7 @@ hi Float guifg=#0a9cff guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE ct
 hi Number guifg=#0a9cff guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#0a9cff guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE cterm=NONE
 hi Operator guifg=#ff3854 guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
-hi CursorLine guifg=NONE guibg=#090a1b guisp=#090a1b gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
+hi CursorLine guifg=NONE guibg=#233466 guisp=#090a1b gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
 "hi Union -- no settings --
 "hi TabLineFill -- no settings --
 "hi Question -- no settings --
@@ -84,7 +84,7 @@ hi SpecialKey guifg=#353c4f guibg=#090a1b guisp=#090a1b gui=NONE ctermfg=239 cte
 hi Constant guifg=#0a9cff guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE cterm=NONE
 "hi DefinedName -- no settings --
 hi Tag guifg=#6fd3ff guibg=NONE guisp=NONE gui=NONE ctermfg=81 ctermbg=NONE cterm=NONE
-hi String guifg=#8fff58 guibg=#102522 guisp=#102522 gui=NONE ctermfg=119 ctermbg=235 cterm=NONE
+hi String guifg=#8fff58 guibg=#090a1b guisp=#102522 gui=NONE ctermfg=119 ctermbg=235 cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#81818a guisp=#81818a gui=NONE ctermfg=NONE ctermbg=245 cterm=NONE
 hi MatchParen guifg=#ff3854 guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 "hi LocalVariable -- no settings --
